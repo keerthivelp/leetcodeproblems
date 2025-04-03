@@ -26,14 +26,5 @@ class Solution {
         return ans;
     }
 
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-        int[] candidates1 = {2, 3, 6, 7};
-        int target1 = 7;
-        System.out.println(sol.combinationSum(candidates1, target1));
-
-        int[] candidates2 = {2, 3, 5};
-        int target2 = 8;
-        System.out.println(sol.combinationSum(candidates2, target2));
-    }
+    
 }
