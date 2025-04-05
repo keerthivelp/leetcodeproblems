@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/keerthivelp/leetcodeproblems/tree/master/0055-jump-game) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/keerthivelp/leetcodeproblems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1031-add-to-array-form-of-integer](https://github.com/keerthivelp/leetcodeproblems/tree/master/1031-add-to-array-form-of-integer) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/keerthivelp/leetcodeproblems/tree/master/2561-number-of-distinct-averages) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keerthivelp/leetcodeproblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,5 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/keerthivelp/leetcodeproblems/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2561-number-of-distinct-averages](https://github.com/keerthivelp/leetcodeproblems/tree/master/2561-number-of-distinct-averages) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
