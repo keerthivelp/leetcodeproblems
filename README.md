@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/keerthivelp/leetcodeproblems/tree/master/0055-jump-game) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/keerthivelp/leetcodeproblems/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/keerthivelp/leetcodeproblems/tree/master/0031-next-permutation) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
