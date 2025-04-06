@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/keerthivelp/leetcodeproblems/tree/master/2561-number-of-distinct-averages) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/keerthivelp/leetcodeproblems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/keerthivelp/leetcodeproblems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+## String
+|  |
+| ------- |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/keerthivelp/leetcodeproblems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 <!---LeetCode Topics End-->
