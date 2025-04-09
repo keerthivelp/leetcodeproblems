@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3398-make-a-square-with-the-same-color](https://github.com/keerthivelp/leetcodeproblems/tree/master/3398-make-a-square-with-the-same-color) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/keerthivelp/leetcodeproblems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [3398-make-a-square-with-the-same-color](https://github.com/keerthivelp/leetcodeproblems/tree/master/3398-make-a-square-with-the-same-color) |
 ## String
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/keerthivelp/leetcodeproblems/tree/master/1656-count-good-triplets) |
+| [3398-make-a-square-with-the-same-color](https://github.com/keerthivelp/leetcodeproblems/tree/master/3398-make-a-square-with-the-same-color) |
 ## Stack
 |  |
 | ------- |
