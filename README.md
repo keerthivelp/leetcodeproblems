@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/keerthivelp/leetcodeproblems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0944-smallest-range-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/keerthivelp/leetcodeproblems/tree/master/1031-add-to-array-form-of-integer) |
+| [1063-best-sightseeing-pair](https://github.com/keerthivelp/leetcodeproblems/tree/master/1063-best-sightseeing-pair) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1656-count-good-triplets](https://github.com/keerthivelp/leetcodeproblems/tree/master/1656-count-good-triplets) |
 | [1833-find-the-highest-altitude](https://github.com/keerthivelp/leetcodeproblems/tree/master/1833-find-the-highest-altitude) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/keerthivelp/leetcodeproblems/tree/master/0055-jump-game) |
+| [1063-best-sightseeing-pair](https://github.com/keerthivelp/leetcodeproblems/tree/master/1063-best-sightseeing-pair) |
 ## Greedy
 |  |
 | ------- |
