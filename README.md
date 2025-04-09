@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/keerthivelp/leetcodeproblems/tree/master/1031-add-to-array-form-of-integer) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1656-count-good-triplets](https://github.com/keerthivelp/leetcodeproblems/tree/master/1656-count-good-triplets) |
+| [1833-find-the-highest-altitude](https://github.com/keerthivelp/leetcodeproblems/tree/master/1833-find-the-highest-altitude) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/keerthivelp/leetcodeproblems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/keerthivelp/leetcodeproblems/tree/master/2561-number-of-distinct-averages) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/0496-next-greater-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/keerthivelp/leetcodeproblems/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
