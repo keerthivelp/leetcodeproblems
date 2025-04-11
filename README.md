@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/keerthivelp/leetcodeproblems/tree/master/1031-add-to-array-form-of-integer) |
 | [1063-best-sightseeing-pair](https://github.com/keerthivelp/leetcodeproblems/tree/master/1063-best-sightseeing-pair) |
+| [1140-distant-barcodes](https://github.com/keerthivelp/leetcodeproblems/tree/master/1140-distant-barcodes) |
 | [1319-unique-number-of-occurrences](https://github.com/keerthivelp/leetcodeproblems/tree/master/1319-unique-number-of-occurrences) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1656-count-good-triplets](https://github.com/keerthivelp/leetcodeproblems/tree/master/1656-count-good-triplets) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/keerthivelp/leetcodeproblems/tree/master/0041-first-missing-positive) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/0496-next-greater-element-i) |
+| [1140-distant-barcodes](https://github.com/keerthivelp/leetcodeproblems/tree/master/1140-distant-barcodes) |
 | [1319-unique-number-of-occurrences](https://github.com/keerthivelp/leetcodeproblems/tree/master/1319-unique-number-of-occurrences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/keerthivelp/leetcodeproblems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2561-number-of-distinct-averages](https://github.com/keerthivelp/leetcodeproblems/tree/master/2561-number-of-distinct-averages) |
@@ -83,17 +85,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/keerthivelp/leetcodeproblems/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/keerthivelp/leetcodeproblems/tree/master/0605-can-place-flowers) |
+| [1140-distant-barcodes](https://github.com/keerthivelp/leetcodeproblems/tree/master/1140-distant-barcodes) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/keerthivelp/leetcodeproblems/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1140-distant-barcodes](https://github.com/keerthivelp/leetcodeproblems/tree/master/1140-distant-barcodes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/keerthivelp/leetcodeproblems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2561-number-of-distinct-averages](https://github.com/keerthivelp/leetcodeproblems/tree/master/2561-number-of-distinct-averages) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1140-distant-barcodes](https://github.com/keerthivelp/leetcodeproblems/tree/master/1140-distant-barcodes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
@@ -126,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/keerthivelp/leetcodeproblems/tree/master/1833-find-the-highest-altitude) |
+## Counting
+|  |
+| ------- |
+| [1140-distant-barcodes](https://github.com/keerthivelp/leetcodeproblems/tree/master/1140-distant-barcodes) |
 <!---LeetCode Topics End-->
