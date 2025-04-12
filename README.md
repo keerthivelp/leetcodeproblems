@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/keerthivelp/leetcodeproblems/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0944-smallest-range-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/keerthivelp/leetcodeproblems/tree/master/1031-add-to-array-form-of-integer) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/keerthivelp/leetcodeproblems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/keerthivelp/leetcodeproblems/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/keerthivelp/leetcodeproblems/tree/master/0055-jump-game) |
+| [0189-rotate-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/keerthivelp/leetcodeproblems/tree/master/0605-can-place-flowers) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/keerthivelp/leetcodeproblems/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/keerthivelp/leetcodeproblems/tree/master/2561-number-of-distinct-averages) |
