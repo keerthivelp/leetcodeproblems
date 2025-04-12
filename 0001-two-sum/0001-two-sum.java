@@ -1,14 +1,16 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = i + 1; j < nums.length; j++) {
-                if (nums[i] + nums[j] == target) {
-                    return new int[] {i, j}; // Return the indices
-                }
+        int n=nums.length;
+        HashMap<Integer,Integer> mpp=new HashMap<>();
+        for(int i=0;i<n;i++){
+            
+            int more=target-nums[i];
+            if(mpp.containsKey(more)){
+                return new int[] {mpp.get(more),i};
             }
+            mpp.put(nums[i],i);
         }
-        // Throw an exception if no solution is found
-        throw new IllegalArgumentException("No two sum solution");
+        return new int[]{};
+        
     }
 }
