@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/keerthivelp/leetcodeproblems/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/keerthivelp/leetcodeproblems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/keerthivelp/leetcodeproblems/tree/master/0605-can-place-flowers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/keerthivelp/leetcodeproblems/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/keerthivelp/leetcodeproblems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/keerthivelp/leetcodeproblems/tree/master/2561-number-of-distinct-averages) |
