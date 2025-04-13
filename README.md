@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/keerthivelp/leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/keerthivelp/leetcodeproblems/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/keerthivelp/leetcodeproblems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/keerthivelp/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/keerthivelp/leetcodeproblems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/keerthivelp/leetcodeproblems/tree/master/0136-single-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/keerthivelp/leetcodeproblems/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/keerthivelp/leetcodeproblems/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/keerthivelp/leetcodeproblems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/keerthivelp/leetcodeproblems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/keerthivelp/leetcodeproblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/keerthivelp/leetcodeproblems/tree/master/0268-missing-number) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/keerthivelp/leetcodeproblems/tree/master/0073-set-matrix-zeroes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [3330-modify-the-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/keerthivelp/leetcodeproblems/tree/master/3398-make-a-square-with-the-same-color) |
