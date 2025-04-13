@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/keerthivelp/leetcodeproblems/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/keerthivelp/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/keerthivelp/leetcodeproblems/tree/master/0268-missing-number) |
 | [0944-smallest-range-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/0944-smallest-range-i) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/keerthivelp/leetcodeproblems/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/keerthivelp/leetcodeproblems/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/keerthivelp/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/keerthivelp/leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/keerthivelp/leetcodeproblems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/keerthivelp/leetcodeproblems/tree/master/0073-set-matrix-zeroes) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/keerthivelp/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/keerthivelp/leetcodeproblems/tree/master/0073-set-matrix-zeroes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [3330-modify-the-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/3330-modify-the-matrix) |
