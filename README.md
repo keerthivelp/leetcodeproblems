@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/keerthivelp/leetcodeproblems/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/keerthivelp/leetcodeproblems/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/keerthivelp/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/keerthivelp/leetcodeproblems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/keerthivelp/leetcodeproblems/tree/master/0268-missing-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/keerthivelp/leetcodeproblems/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/keerthivelp/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/keerthivelp/leetcodeproblems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/keerthivelp/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/keerthivelp/leetcodeproblems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/keerthivelp/leetcodeproblems/tree/master/0748-largest-number-at-least-twice-of-others) |
