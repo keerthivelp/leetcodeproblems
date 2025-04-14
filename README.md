@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/keerthivelp/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/keerthivelp/leetcodeproblems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/keerthivelp/leetcodeproblems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/keerthivelp/leetcodeproblems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/keerthivelp/leetcodeproblems/tree/master/0075-sort-colors) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/keerthivelp/leetcodeproblems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/keerthivelp/leetcodeproblems/tree/master/0073-set-matrix-zeroes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [3330-modify-the-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/3330-modify-the-matrix) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/0054-spiral-matrix) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Enumeration
 |  |
