@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/keerthivelp/leetcodeproblems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/keerthivelp/leetcodeproblems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/keerthivelp/leetcodeproblems/tree/master/0605-can-place-flowers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/keerthivelp/leetcodeproblems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0944-smallest-range-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/0944-smallest-range-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/keerthivelp/leetcodeproblems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/keerthivelp/leetcodeproblems/tree/master/0560-subarray-sum-equals-k) |
 | [1140-distant-barcodes](https://github.com/keerthivelp/leetcodeproblems/tree/master/1140-distant-barcodes) |
 | [1319-unique-number-of-occurrences](https://github.com/keerthivelp/leetcodeproblems/tree/master/1319-unique-number-of-occurrences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/keerthivelp/leetcodeproblems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/keerthivelp/leetcodeproblems/tree/master/0560-subarray-sum-equals-k) |
 | [1833-find-the-highest-altitude](https://github.com/keerthivelp/leetcodeproblems/tree/master/1833-find-the-highest-altitude) |
 ## Counting
 |  |
