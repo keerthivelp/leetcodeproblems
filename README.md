@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/keerthivelp/leetcodeproblems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/keerthivelp/leetcodeproblems/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/keerthivelp/leetcodeproblems/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/keerthivelp/leetcodeproblems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/keerthivelp/leetcodeproblems/tree/master/0605-can-place-flowers) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/keerthivelp/leetcodeproblems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/keerthivelp/leetcodeproblems/tree/master/0493-reverse-pairs) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2634-minimum-common-value](https://github.com/keerthivelp/leetcodeproblems/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/keerthivelp/leetcodeproblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/keerthivelp/leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/keerthivelp/leetcodeproblems/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/keerthivelp/leetcodeproblems/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,4 +205,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/keerthivelp/leetcodeproblems/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/keerthivelp/leetcodeproblems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/keerthivelp/leetcodeproblems/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/keerthivelp/leetcodeproblems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/keerthivelp/leetcodeproblems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
