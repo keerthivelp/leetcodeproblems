@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/keerthivelp/leetcodeproblems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/keerthivelp/leetcodeproblems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/keerthivelp/leetcodeproblems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/keerthivelp/leetcodeproblems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/keerthivelp/leetcodeproblems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/keerthivelp/leetcodeproblems/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/keerthivelp/leetcodeproblems/tree/master/0205-isomorphic-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/keerthivelp/leetcodeproblems/tree/master/2032-largest-odd-number-in-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/keerthivelp/leetcodeproblems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
