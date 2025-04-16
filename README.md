@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/keerthivelp/leetcodeproblems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/keerthivelp/leetcodeproblems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/keerthivelp/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keerthivelp/leetcodeproblems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/0496-next-greater-element-i) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/keerthivelp/leetcodeproblems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/keerthivelp/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keerthivelp/leetcodeproblems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/keerthivelp/leetcodeproblems/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/keerthivelp/leetcodeproblems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/keerthivelp/leetcodeproblems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/keerthivelp/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/keerthivelp/leetcodeproblems/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/keerthivelp/leetcodeproblems/tree/master/2032-largest-odd-number-in-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
