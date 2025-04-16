@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/keerthivelp/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/keerthivelp/leetcodeproblems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/keerthivelp/leetcodeproblems/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/keerthivelp/leetcodeproblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/keerthivelp/leetcodeproblems/tree/master/2032-largest-odd-number-in-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/keerthivelp/leetcodeproblems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/keerthivelp/leetcodeproblems/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/keerthivelp/leetcodeproblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
