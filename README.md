@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-distant-barcodes](https://github.com/keerthivelp/leetcodeproblems/tree/master/1140-distant-barcodes) |
 | [1319-unique-number-of-occurrences](https://github.com/keerthivelp/leetcodeproblems/tree/master/1319-unique-number-of-occurrences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/keerthivelp/leetcodeproblems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/keerthivelp/leetcodeproblems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2561-number-of-distinct-averages](https://github.com/keerthivelp/leetcodeproblems/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/keerthivelp/leetcodeproblems/tree/master/2634-minimum-common-value) |
 ## Dynamic Programming
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/keerthivelp/leetcodeproblems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/keerthivelp/leetcodeproblems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/keerthivelp/leetcodeproblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/keerthivelp/leetcodeproblems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/keerthivelp/leetcodeproblems/tree/master/2032-largest-odd-number-in-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/keerthivelp/leetcodeproblems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/keerthivelp/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 | [1140-distant-barcodes](https://github.com/keerthivelp/leetcodeproblems/tree/master/1140-distant-barcodes) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/keerthivelp/leetcodeproblems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
