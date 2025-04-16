@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/keerthivelp/leetcodeproblems/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/keerthivelp/leetcodeproblems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/keerthivelp/leetcodeproblems/tree/master/0075-sort-colors) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/keerthivelp/leetcodeproblems/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/keerthivelp/leetcodeproblems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/keerthivelp/leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/keerthivelp/leetcodeproblems/tree/master/0055-jump-game) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/keerthivelp/leetcodeproblems/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/keerthivelp/leetcodeproblems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/keerthivelp/leetcodeproblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/keerthivelp/leetcodeproblems/tree/master/0242-valid-anagram) |
