@@ -21,7 +21,7 @@ class Solution {
 
         }
         prev.next=slow.next;
-        slow.next=null;
+        
         
 
         return head;
