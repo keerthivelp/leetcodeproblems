@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/keerthivelp/leetcodeproblems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/keerthivelp/leetcodeproblems/tree/master/0605-can-place-flowers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/keerthivelp/leetcodeproblems/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0816-design-hashset](https://github.com/keerthivelp/leetcodeproblems/tree/master/0816-design-hashset) |
 | [0944-smallest-range-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/0944-smallest-range-i) |
 | [0978-valid-mountain-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/0978-valid-mountain-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/keerthivelp/leetcodeproblems/tree/master/1031-add-to-array-form-of-integer) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/keerthivelp/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/keerthivelp/leetcodeproblems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/keerthivelp/leetcodeproblems/tree/master/0560-subarray-sum-equals-k) |
+| [0816-design-hashset](https://github.com/keerthivelp/leetcodeproblems/tree/master/0816-design-hashset) |
 | [1140-distant-barcodes](https://github.com/keerthivelp/leetcodeproblems/tree/master/1140-distant-barcodes) |
 | [1319-unique-number-of-occurrences](https://github.com/keerthivelp/leetcodeproblems/tree/master/1319-unique-number-of-occurrences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/keerthivelp/leetcodeproblems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/keerthivelp/leetcodeproblems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/keerthivelp/leetcodeproblems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/keerthivelp/leetcodeproblems/tree/master/0328-odd-even-linked-list) |
+| [0816-design-hashset](https://github.com/keerthivelp/leetcodeproblems/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/keerthivelp/leetcodeproblems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/keerthivelp/leetcodeproblems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -292,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/keerthivelp/leetcodeproblems/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/keerthivelp/leetcodeproblems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/keerthivelp/leetcodeproblems/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/keerthivelp/leetcodeproblems/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/keerthivelp/leetcodeproblems/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
