@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/keerthivelp/leetcodeproblems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1833-find-the-highest-altitude](https://github.com/keerthivelp/leetcodeproblems/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/keerthivelp/leetcodeproblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/keerthivelp/leetcodeproblems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/keerthivelp/leetcodeproblems/tree/master/2561-number-of-distinct-averages) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/keerthivelp/leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/keerthivelp/leetcodeproblems/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/keerthivelp/leetcodeproblems/tree/master/0493-reverse-pairs) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-distant-barcodes](https://github.com/keerthivelp/leetcodeproblems/tree/master/1140-distant-barcodes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/keerthivelp/leetcodeproblems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2561-number-of-distinct-averages](https://github.com/keerthivelp/leetcodeproblems/tree/master/2561-number-of-distinct-averages) |
 ## Heap (Priority Queue)
 |  |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/keerthivelp/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 | [1140-distant-barcodes](https://github.com/keerthivelp/leetcodeproblems/tree/master/1140-distant-barcodes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/keerthivelp/leetcodeproblems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Matrix
 |  |
 | ------- |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/keerthivelp/leetcodeproblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/keerthivelp/leetcodeproblems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/keerthivelp/leetcodeproblems/tree/master/2032-largest-odd-number-in-string) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/keerthivelp/leetcodeproblems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Simulation
@@ -303,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/keerthivelp/leetcodeproblems/tree/master/0816-design-hashset) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
