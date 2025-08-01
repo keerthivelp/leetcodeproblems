@@ -319,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/keerthivelp/leetcodeproblems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/keerthivelp/leetcodeproblems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
